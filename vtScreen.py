@@ -15,7 +15,6 @@ import time
 
 from selenium.webdriver.chrome.options import Options
 from pygments import highlight, lexers, formatters
-from pyfiglet import Figlet
 from dotenv import load_dotenv
 
 parser = argparse.ArgumentParser(
